@@ -11,7 +11,8 @@ Tool for opening data files in the most common formats
 <img width="276" height="50" alt="1_Black" src="https://github.com/user-attachments/assets/c28534c4-8723-4766-b2f5-60668a92380c" />
 
   - **Show plain text**  
-    - Opens a file as text to check the syntax  
+    - Opens a file as text to check the syntax
+  
 <img width="279" height="174" alt="2_green" src="https://github.com/user-attachments/assets/dcd0d3b3-509f-402e-b1c9-b28bac5795c1" />
 
   - **Decimal separator**
@@ -23,15 +24,18 @@ Tool for opening data files in the most common formats
   - **Skip first (n) lines**
     - Skip the first skiprows lines, including comments
   - **Open**
-    - Select the file  
+    - Select the file
+  
 <img width="276" height="49" alt="3_green" src="https://github.com/user-attachments/assets/a2c539b1-924b-4063-b2e4-56af277087dd" />
 
   - **Open numpy (npy)**
-    - Load arrays from .npy files  
+    - Load arrays from .npy files
+  
 <img width="278" height="143" alt="4_blue" src="https://github.com/user-attachments/assets/c8caffdd-3f8e-47a5-8504-430261a6988c" />
 
   - **Plot**
-    - Use the **Plot** command to add new graphs from the selected X and Y columns in the **Plot** tab. Use the **Delete** button to remove them  
+    - Use the **Plot** command to add new graphs from the selected X and Y columns in the **Plot** tab. Use the **Delete** button to remove them
+  
 <img width="278" height="83" alt="5_blue" src="https://github.com/user-attachments/assets/5c192700-2da0-486f-afd3-33d17fe6a029" />
 
   - **Accept**
